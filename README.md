@@ -1,6 +1,6 @@
 ## README
 
-### Technical Report for Fully-Convolutional Network based Follow Me
+### Technical Report for Lidar & Radar Sensor Fusion using Extended Kalam Filter
 
 ---
 
